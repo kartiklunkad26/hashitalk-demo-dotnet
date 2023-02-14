@@ -1,0 +1,15 @@
+/Users/kartiklunkad/workspace/hashitalk-demo/hashitalk-demo-dotnet/bin/Debug/net6.0/Hashitalk-demo-dotnet
+/Users/kartiklunkad/workspace/hashitalk-demo/hashitalk-demo-dotnet/bin/Debug/net6.0/Hashitalk-demo-dotnet.deps.json
+/Users/kartiklunkad/workspace/hashitalk-demo/hashitalk-demo-dotnet/bin/Debug/net6.0/Hashitalk-demo-dotnet.runtimeconfig.json
+/Users/kartiklunkad/workspace/hashitalk-demo/hashitalk-demo-dotnet/bin/Debug/net6.0/Hashitalk-demo-dotnet.dll
+/Users/kartiklunkad/workspace/hashitalk-demo/hashitalk-demo-dotnet/bin/Debug/net6.0/ref/Hashitalk-demo-dotnet.dll
+/Users/kartiklunkad/workspace/hashitalk-demo/hashitalk-demo-dotnet/bin/Debug/net6.0/Hashitalk-demo-dotnet.pdb
+/Users/kartiklunkad/workspace/hashitalk-demo/hashitalk-demo-dotnet/obj/Debug/net6.0/Hashitalk-demo-dotnet.csproj.AssemblyReference.cache
+/Users/kartiklunkad/workspace/hashitalk-demo/hashitalk-demo-dotnet/obj/Debug/net6.0/Hashitalk-demo-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kartiklunkad/workspace/hashitalk-demo/hashitalk-demo-dotnet/obj/Debug/net6.0/Hashitalk-demo-dotnet.AssemblyInfoInputs.cache
+/Users/kartiklunkad/workspace/hashitalk-demo/hashitalk-demo-dotnet/obj/Debug/net6.0/Hashitalk-demo-dotnet.AssemblyInfo.cs
+/Users/kartiklunkad/workspace/hashitalk-demo/hashitalk-demo-dotnet/obj/Debug/net6.0/Hashitalk-demo-dotnet.csproj.CoreCompileInputs.cache
+/Users/kartiklunkad/workspace/hashitalk-demo/hashitalk-demo-dotnet/obj/Debug/net6.0/Hashitalk-demo-dotnet.dll
+/Users/kartiklunkad/workspace/hashitalk-demo/hashitalk-demo-dotnet/obj/Debug/net6.0/ref/Hashitalk-demo-dotnet.dll
+/Users/kartiklunkad/workspace/hashitalk-demo/hashitalk-demo-dotnet/obj/Debug/net6.0/Hashitalk-demo-dotnet.pdb
+/Users/kartiklunkad/workspace/hashitalk-demo/hashitalk-demo-dotnet/obj/Debug/net6.0/Hashitalk-demo-dotnet.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hashitalk-demo-dotnet/1.0.0": {
+        "runtime": {
+          "Hashitalk-demo-dotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hashitalk-demo-dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
